@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mail@cdschmidt.com
+	name = Carolin Schmidt
